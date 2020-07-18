@@ -1,3 +1,5 @@
+These are the libraries used with their versions in my computer system.
+
 fastai                    1.0.61                   pypi_0    pypi
 keras                     2.3.1                    pypi_0    pypi
 keras-applications        1.0.8                    pypi_0    pypi
